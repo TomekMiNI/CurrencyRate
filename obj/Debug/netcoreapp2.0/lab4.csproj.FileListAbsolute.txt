@@ -1,0 +1,11 @@
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+C:\Users\Euronet\Source\Repos\www\lab4\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
